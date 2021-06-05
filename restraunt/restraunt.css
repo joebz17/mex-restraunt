@@ -33,7 +33,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("/images/pexels-tembela-bohle-1089932.jpg");
+  background-image: url("images/pexels-tembela-bohle-1089932.jpg");
   background-size: cover;
   height: 80vh;
   width: 100%;
